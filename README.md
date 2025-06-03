@@ -4,9 +4,9 @@
 
 This project uses:
 - WANDS dataset (Wayfair)
-- MiniLM for semantic embeddings
+- LLM for semantic embeddings
 - FAISS for vector search
-- OpenAI API for query-based product summaries
+- Together API for query-based product summaries
 - Streamlit for UI
 
 ## Setup
@@ -14,3 +14,7 @@ This project uses:
 ### 1. Install the dependencies:
 ```bash
 pip install -r requirements.txt
+
+**### 1. Run the app.py :**
+```bash
+streamlit run app.py
