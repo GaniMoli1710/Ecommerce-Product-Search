@@ -11,10 +11,7 @@ This project uses:
 
 ## Setup
 
-### 1. Install the dependencies:
-```bash
 pip install -r requirements.txt
 
-**### 1. Run the app.py :**
-```bash
+## Run
 streamlit run app.py
